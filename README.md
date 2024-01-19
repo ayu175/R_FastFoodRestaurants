@@ -3,6 +3,8 @@
 ## **Overview**
 This project focuses on analyzing obesity rates and number of fast food restaurants in the United States of America. 
 
+![image](https://github.com/ayu-shiba/R_FastFoodRestaurants/assets/157092177/8f30509d-0186-406b-9041-9cf9a766ad6a)
+
 ### **Programming Language**
 R
 
