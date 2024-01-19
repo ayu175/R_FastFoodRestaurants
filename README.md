@@ -18,5 +18,5 @@ Thorough cleaning of the dataset to handle missing values, outliers, and ensure 
 #### **3. Data Wrangling**
 Combining different datasets into a comprehensive dataframe for analysis.
 
-#### **$. Multiple Linear Regression**
+#### **4. Multiple Linear Regression**
 Implementation of a multiple linear regression model to predict obesity rates, based on various independent variables.
