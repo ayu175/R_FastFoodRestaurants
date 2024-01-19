@@ -22,7 +22,7 @@ Combining different datasets into a comprehensive dataframe for analysis.
 Implementation of a multiple linear regression model to predict obesity rates, based on various independent variables.
 
 #### **5. Visualization (Tableau)**
-Effective use of data visualization techniques to understand dataset and linear regression model.
+Effective use of data visualization techniques to understand dataset and linear regression model predicted values.
 
 ![image](https://github.com/ayu-shiba/R_FastFoodRestaurants/assets/157092177/8f30509d-0186-406b-9041-9cf9a766ad6a)
 
